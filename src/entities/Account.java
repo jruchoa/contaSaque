@@ -55,7 +55,7 @@ public class Account {
 	}
 	
 	public void withdraw(double amount) {
-		balance = balance - amount;
+		balance = balance - amount ;
 	}
 	
 	public String validateWithdraw (double amount) {
