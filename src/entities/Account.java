@@ -65,7 +65,7 @@ public class Account {
 		if(amount > getBalance()){
 			return "Erro de saque: Saldo ineficiente.";
 		} 
-		return null;		
+		return null ;		
 		
 	}
 }

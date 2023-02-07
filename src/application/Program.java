@@ -39,7 +39,7 @@ public class Program {
 			System.out.printf("Novo saldo: %.2f%n" ,acc.getBalance());
 		}
 		
-		sc.close();
+		sc.close() ;
 		
 	}
 
